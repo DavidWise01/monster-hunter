@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Monster Hunter Rise",
+  "universe": "MHN · Monster Hunter Rise (hobby)",
+  "emergence": "electrical",
+  "moniker": "⟦Monster Hunter Rise:MHN:7e5b6c⟧",
+  "carbon": "monster-hunter-rise.carbon.tiff (TIFF)",
+  "silicon": "monster-hunter-rise.silicon.png (PNG)",
+  "seal_sha256": "74a8f20c54d494b4c0bcc645fcffdac4d57552f7930653ef33df567133d29760",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

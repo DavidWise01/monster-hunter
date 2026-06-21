@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Monster Hunter Stories",
+  "universe": "MHN · Monster Hunter Stories (hobby)",
+  "emergence": "ethereal",
+  "moniker": "⟦Monster Hunter Stories:MHN:efd895⟧",
+  "carbon": "monster-hunter-stories.carbon.tiff (TIFF)",
+  "silicon": "monster-hunter-stories.silicon.png (PNG)",
+  "seal_sha256": "2eeac035a1fe63d8ea0654565b481f91adaeacfefa638e230acce5287b0fcd69",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

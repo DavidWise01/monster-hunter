@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Palico",
+  "universe": "MHN · The Palico (hobby)",
+  "emergence": "natural",
+  "moniker": "⟦The Palico:MHN:940c93⟧",
+  "carbon": "the-palico.carbon.tiff (TIFF)",
+  "silicon": "the-palico.silicon.png (PNG)",
+  "seal_sha256": "ff0f605e45d41599c64aca18de4e200dd2fbc21992338eb1a29c91f19b946dcc",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

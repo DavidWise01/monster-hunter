@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Rathalos",
+  "universe": "MHN · Rathalos (hobby)",
+  "emergence": "spiritual",
+  "moniker": "⟦Rathalos:MHN:649da0⟧",
+  "carbon": "rathalos.carbon.tiff (TIFF)",
+  "silicon": "rathalos.silicon.png (PNG)",
+  "seal_sha256": "ad7f97a153615710293d60ba361944f749db5e07e069a28a9435ad1a23da7628",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

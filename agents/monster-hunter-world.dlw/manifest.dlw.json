@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Monster Hunter World",
+  "universe": "MHN · Monster Hunter World (hobby)",
+  "emergence": "spiritual",
+  "moniker": "⟦Monster Hunter World:MHN:615127⟧",
+  "carbon": "monster-hunter-world.carbon.tiff (TIFF)",
+  "silicon": "monster-hunter-world.silicon.png (PNG)",
+  "seal_sha256": "3170c44fdde593b00f641a2cd24cc59a6f4e02ff12357d466552f41c4e9ca4c1",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

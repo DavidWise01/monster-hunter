@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Hunt Loop",
+  "universe": "MHN · The Hunt Loop (hobby)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Hunt Loop:MHN:23fe67⟧",
+  "carbon": "the-hunt-loop.carbon.tiff (TIFF)",
+  "silicon": "the-hunt-loop.silicon.png (PNG)",
+  "seal_sha256": "e6343081cd7fcf35ea80f3a04d67f811cbceb03664e6caa0e9166fbe59806c94",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

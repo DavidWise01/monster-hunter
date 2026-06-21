@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Monster Hunter Tri",
+  "universe": "MHN · Monster Hunter Tri (hobby)",
+  "emergence": "natural",
+  "moniker": "⟦Monster Hunter Tri:MHN:f54da2⟧",
+  "carbon": "monster-hunter-tri.carbon.tiff (TIFF)",
+  "silicon": "monster-hunter-tri.silicon.png (PNG)",
+  "seal_sha256": "d2b44e6e8aefaef749a827f3013828632970adaff5804e87f7a49c3a0f6df826",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

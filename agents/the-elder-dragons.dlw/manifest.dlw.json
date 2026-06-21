@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Elder Dragons",
+  "universe": "MHN · The Elder Dragons (hobby)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Elder Dragons:MHN:aadfd9⟧",
+  "carbon": "the-elder-dragons.carbon.tiff (TIFF)",
+  "silicon": "the-elder-dragons.silicon.png (PNG)",
+  "seal_sha256": "3a38644458cfc3fb235bb198f5dc5b257935992edcd1d0f45456d3f0cb10200a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

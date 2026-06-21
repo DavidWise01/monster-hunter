@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Gathering Hub",
+  "universe": "MHN · The Gathering Hub (hobby)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Gathering Hub:MHN:31ef60⟧",
+  "carbon": "the-gathering-hub.carbon.tiff (TIFF)",
+  "silicon": "the-gathering-hub.silicon.png (PNG)",
+  "seal_sha256": "f893ce61644b8db7c018d5944e0db65a4a97d4a2abf0c38992d650997769a552",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Monster Ecology",
+  "universe": "MHN · Monster Ecology (hobby)",
+  "emergence": "natural",
+  "moniker": "⟦Monster Ecology:MHN:09a933⟧",
+  "carbon": "monster-ecology.carbon.tiff (TIFF)",
+  "silicon": "monster-ecology.silicon.png (PNG)",
+  "seal_sha256": "c2094dc53d5235a80ed3521a5d0bed479f19b2b7367f68a2b48bdf2040d71f93",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

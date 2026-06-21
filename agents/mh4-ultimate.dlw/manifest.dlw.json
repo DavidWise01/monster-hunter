@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "MH4 Ultimate",
+  "universe": "MHN · MH4 Ultimate (hobby)",
+  "emergence": "electrical",
+  "moniker": "⟦MH4 Ultimate:MHN:520a83⟧",
+  "carbon": "mh4-ultimate.carbon.tiff (TIFF)",
+  "silicon": "mh4-ultimate.silicon.png (PNG)",
+  "seal_sha256": "a5f0b74f6b5deeffdb4d5ffe2ab9361bed0ad01bc0810b633fb366ee04f33dd6",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
