@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 887
+slug  : monster-hunter
+seal  : 495c5401ebb6703980aa77dc8f14922230228fca3b12e4e530af2fcc0e7c166d
+prev  : ba7b7c5bacb8df72214be55d3ad374ceaf1e69e7af8d9bbf1efeeb6d702c5243
+link  : 66839eef4736b324f17e6f2a6da9aea06580bb28872fda579d96aa78ca5d4e0f
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
